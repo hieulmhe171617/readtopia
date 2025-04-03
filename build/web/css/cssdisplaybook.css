@@ -1,0 +1,67 @@
+.content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.left-content {
+    padding-left: 50px;
+}
+
+.image {
+    width: 250px;
+    height: 375px;
+    border: 1px solid;
+    box-shadow: 5px 10px 8px #888888;
+
+}
+
+select option{
+    font-size: larger;
+    text-align: center;
+}
+
+.choice {
+    margin-top: 20px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.choice-detail {
+    color: white;
+    background: black;
+    width: 200px;
+    height: 35px;
+    border-radius: 8px;
+}
+
+.rating {
+    margin-top: 8px;
+    font-size: larger;
+}
+
+.author-name {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    margin-bottom: 10px;
+}
+
+.descript {
+    margin-top: 30px;
+    width: 80%;
+    font-size: 17px;
+}
+
+.first-sub {
+    margin-top: 80px;
+}
+
+.sub{
+    color: grey;
+    font-size: larger;
+}
+
